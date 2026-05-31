@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MernStack+Developer;Nextjs+Developer;Ai+Learner;BCA+Student;Future+Software+Engineer;Open+Source+Enthusiast&center=true&width=600&height=50">
 </p>
